@@ -1,2 +1,0 @@
-xonsh>=0.12.5
-prompt_toolkit>=3.0.29
