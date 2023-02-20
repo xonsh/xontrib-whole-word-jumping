@@ -2,7 +2,6 @@ import prompt_toolkit.input.ansi_escape_sequences as ansiseq
 from prompt_toolkit.filters import EmacsInsertMode, ViInsertMode
 from prompt_toolkit.key_binding.bindings.named_commands import get_by_name
 from prompt_toolkit.keys import Keys
-
 from xonsh.built_ins import XSH, XonshSession
 from xonsh.platform import ON_WINDOWS
 
