@@ -11,14 +11,14 @@ If you like the idea click ⭐ on the repo and <a href="https://twitter.com/inte
 
 To install use pip:
 
-```bash
+```xsh
 xpip install xontrib-whole-word-jumping
 # or: xpip install -U git+https://github.com/xonsh/xontrib-whole-word-jumping
 ```
 
 ## Usage
 
-```bash
+```xsh
 xontrib load whole_word_jumping
 ```
 
