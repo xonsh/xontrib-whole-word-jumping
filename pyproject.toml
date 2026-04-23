@@ -1,7 +1,7 @@
 
 [project]
 name = "xontrib-whole-word-jumping"
-version = "0.0.1"
+version = "0.0.2"
 license = {file = "LICENSE"}
 description = "Jump/delete across whole (non-whitespace) words with Ctrl+Left/Right/Delete/Backspace."
 classifiers = [
